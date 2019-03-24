@@ -1,0 +1,51 @@
+name	sex	total milk production	milk production yearly	life expectancy	weight	color	ears size	tail size	happiness
+9WxXGpCuu-l2AYymwS49gJGgUjTSFQnDi7EG0pWM	female	243.05	14.61	16.63	724.34	black	2.43	19.28	41.85
+NKC93qvWYuCDCfDOz63MR9ovxNQ4AHASzxYHZ7RY	female	233.70	14.31	16.33	727.86	striped	2.43	19.24	41.91
+RTvsSv3L1K1oNUWlQNLscW3NvQ8d_MzWUapgwmmq	female	223.26	13.68	16.32	728.96	spotted	2.45	19.21	41.95
+pMtWT12UHrwrX8N_obdlcc8qy_f_CBPe1OaoY6vU	female	232.21	14.14	16.42	724.34	spotted	2.44	19.28	41.96
+-VwLANpK0nesCAIXM0cN68ncCGkriA2Xt2lBPl_6	male	0.00	0.00	16.60	724.34	spotted	2.46	19.25	41.87
+eT9Y4SJyysWaBy7usHE7fpJ8BObu4ezRDyeXxU7v	male	0.00	0.00	16.73	726.06	spotted	2.48	19.20	41.89
+i4_QdU5nRlTpfx1sJAzLNGKioChCdpikwAuRekEH	female	231.67	14.03	16.51	726.06	striped	2.44	19.21	41.93
+nsWqIVF4eA-8j6i7E5SO7Pv4WdJatN40EXy3n3Di	male	0.00	0.00	16.18	724.75	striped	2.42	19.19	41.98
+ERaOZRxmy6rpJbVyz7LCUd4yLLoyQcSSm5bpoNHU	female	245.23	14.83	16.54	724.34	red	2.45	19.18	41.95
+kVONe5xJe--GE29xGLbiRFl_WAqmeHvwH8-T7YPC	male	0.00	0.00	16.53	724.34	mixed	2.46	19.26	41.95
+ulnytQcGnl682cyD5UAhHp_jcgfXnbOqjXjozhcw	female	244.05	14.57	16.75	727.86	spotted	2.44	19.26	42.15
+13qClOMnviIN1i0TxZCEYoQVM_x1KVpbl0Mfnmoy	female	217.63	13.31	16.35	726.14	spotted	2.42	19.26	41.93
+CRw_xiorPMNZHaewYFzgLqzDz5gghwK4RCefIs20	female	250.71	15.07	16.63	726.06	striped	2.43	19.11	41.93
+ADhmA1dce5c0c_ewVKs6uxMZUw9DrP9tnopDRE-7	female	222.26	13.56	16.39	727.86	striped	2.44	19.26	42.07
+cUVYTijvFLviixyZc0_A9URCTVdHybL_adi00gCm	female	233.90	14.23	16.43	727.01	striped	2.44	19.24	42.05
+VRuI0JtAaIq5soYfdcONXrFUP8TUANiGcJ9LWLdv	male	0.00	0.00	16.33	726.62	spotted	2.45	19.16	41.95
+kCLvkNLi_WKULXJX8sW1aNBAc2VtkY2KXs9CwLvh	male	0.00	0.00	16.59	730.64	spotted	2.45	19.28	42.09
+DgK5im3n-4FhfWXnyuzxmj5zu2teMhagkR3POu2v	female	248.35	15.22	16.32	728.27	striped	2.43	19.11	41.92
+kdV8hguPT8Hy3E4MN-wacyv7JiesPp-ZRne_-dTx	female	229.63	13.95	16.46	724.34	striped	2.45	19.06	42.05
+Ej8WsxT2G_Q5fgH4PW_hbextWZ4M--1iUXfi0Yhf	female	228.17	13.94	16.37	725.61	spotted	2.44	19.17	41.89
+OqcxM1LWxxiyU2p5mi6Ee3h4UOfyCHJakGmPkCpv	male	0.00	0.00	16.44	724.22	striped	2.44	19.30	41.87
+pXSTh_d8p9IwUpLu1UfARCzuqNB5eRrpOrdh6u3m	female	229.53	13.95	16.45	726.14	striped	2.42	19.19	42.06
+AjJmG_d3gYLOW-K72-7pug2JCDvYpf5nEG9jDsCj	male	0.00	0.00	16.58	727.65	spotted	2.42	19.26	41.92
+UboTlSp3r4f0aW3qwAduSPuGuSiipD85eZV6wh1M	female	233.08	14.16	16.46	722.66	striped	2.44	19.29	41.93
+-R4JPxU2vJ3bC8OfkSPhs1buE8MAvgq4HoG-Jv5V	male	0.00	0.00	16.32	726.48	red and black	2.42	19.29	41.95
+q6pc3jGegZjrn375ildf1acEgMjJd9M0iEzoZ88x	female	242.53	14.71	16.49	725.33	striped	2.45	19.14	42.12
+vy4ZxDC7neRiLt2H-dcd0ELb7wxwIJQoYLgK3Txt	male	0.00	0.00	16.56	730.64	striped	2.42	19.26	41.92
+PML6HEgz7WrfqZ3I9ManJcZqT99CwgqrKiQX21LW	female	236.65	14.27	16.59	726.47	spotted	2.44	19.28	42.14
+UBm0BDVgRdic2eq3Qad1GAs8MMTw50BRwXWjr-7e	female	226.81	13.81	16.42	727.86	striped	2.45	19.18	41.86
+uKMW74Vdu3i9NS_0Rh31aj7gROfi4QPlaE5gE8OU	male	0.00	0.00	16.52	724.34	spotted	2.44	19.22	41.98
+ByJgYgzi6T-PZ1aLmug4iLxqR2f72_hGcxHtPJIx	female	241.13	14.61	16.51	724.75	red and black	2.42	19.27	41.96
+XFD0oBTYSZ-KFoLNvFwXPdoQwGfyZJts5L2BlncF	male	0.00	0.00	16.39	727.01	red and black	2.43	19.28	41.85
+bSzkY-Om3jrg9D7vjhQxtPQgzwxVRN-zXh2nZZQ3	female	245.55	14.89	16.49	727.16	spotted	2.47	19.20	42.12
+OoUzmcAKSegPIxhgXIrtt8wW2Oa94gsL3O1UkqgH	female	225.64	13.81	16.33	728.73	red and black	2.43	19.21	42.05
+2qG9H8GrpR9On1awDvCkZPZk4Z234H-KCtwNUoUS	female	237.29	14.39	16.49	727.86	spotted	2.42	19.27	42.14
+FTxmUxO9nowAyqKk0pa1QqZXgnElvilq0SG_8RZA	female	240.42	14.57	16.50	728.27	striped	2.43	19.36	42.08
+srcuXos9fsFtqzckYGX0AfuM8p-qZrEWpIX24-kb	female	234.47	14.22	16.49	726.62	striped	2.43	19.21	41.96
+qOoQ1E1DhPZgNhzlzk-Um-SWyoQIz9bqcDTz5GR8	female	226.17	13.84	16.34	727.25	spotted	2.44	19.24	41.89
+El_AlrdxP8ideZkszjh9OFUVsVIaKuq-q9ww9znJ	female	228.76	13.89	16.47	727.86	striped	2.44	19.16	41.95
+sro61uzEieknTjrFPgsfQWEdoZDKGWU3pY8o-3Ra	female	227.40	13.93	16.33	728.73	striped	2.42	19.26	42.19
+r_8batUvJpycQ3S3-KNgnYv-Bd5URE069zCTTc9G	male	0.00	0.00	16.32	728.73	striped	2.42	19.19	41.89
+5HybMCF6T2yzmjn1GT3IWowvU6PZQQ2yMZ-NtmhT	female	238.08	14.60	16.30	727.16	striped	2.42	19.25	41.97
+y1LwuXCHqoDav4VQZuM12tD3-aH3LKw24DnmgABX	female	249.02	15.05	16.55	720.94	striped	2.45	19.25	41.85
+8sXC3mpf4ORBspH-SzLxTBUh6gbzyGPF1lcj-cfJ	female	231.19	14.22	16.26	727.01	striped	2.43	19.10	41.93
+51qCH_IdjBxTtfKllxUuOAn3CRCryTP2dTsxrinR	male	0.00	0.00	16.47	726.70	striped	2.42	19.30	41.88
+84q-MjZ0p8ihtpaFVFix-asABKZEggYvK6ALwzKR	male	0.00	0.00	16.22	727.86	spotted	2.45	19.21	42.11
+Q8_yDU7EI4HzdzLenDhqZGl9A8EAknQugk_meeqH	male	0.00	0.00	16.72	727.16	spotted	2.44	19.21	42.09
+kDAtCUwQwY1BdD0xeuMoGHRGgU2M4fvJIXRPd9uj	male	0.00	0.00	16.55	730.73	striped	2.43	19.28	41.93
+QX9EEfIzxirmWr61i3xJSmHLG_rYV6EWPR-Ri_s2	male	0.00	0.00	16.42	731.74	striped	2.43	19.29	41.92
+aDG1wnNws0p8qJqfh-cDtBE8L9Y69QNaPcKJmM-n	male	0.00	0.00	16.69	730.64	striped	2.44	19.36	41.93
